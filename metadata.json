@@ -1,0 +1,7 @@
+{
+  "name": "Echoes of Time",
+  "description": "Upload an old photo and video of a person to engage in a real-time, AI-powered conversation with their digital persona, bringing memories to life.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
